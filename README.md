@@ -1,2 +1,3 @@
 # c6t6
 stm32f103c6t6基于clion的基础模板工程
+编译的工具链用的是stm32cubeide里面的工具链，下载用的是DAPLINK，附上daplink的配置文件
